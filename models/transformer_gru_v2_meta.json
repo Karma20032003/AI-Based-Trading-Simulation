@@ -1,0 +1,13 @@
+{
+  "model_type": "transformer_gru",
+  "version": "v2",
+  "file_path": "C:\\Users\\MSI THIN A15\\OneDrive\\Desktop\\trading_project upd\\models\\transformer_gru_v2.keras",
+  "trained_at": "2026-09-30T12:39:09.430241",
+  "metrics": {
+    "accuracy": 0.4308755760368664,
+    "precision": 0.4120023620006408,
+    "recall": 0.33661001828673726,
+    "f1": 0.2984569733380466,
+    "final_val_loss": 1.130614161491394
+  }
+}

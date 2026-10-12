@@ -1,0 +1,13 @@
+{
+  "model_type": "gru",
+  "version": "v3",
+  "file_path": "C:\\Users\\MSI THIN A15\\OneDrive\\Desktop\\trading_project upd\\models\\gru_v3.keras",
+  "trained_at": "2026-09-30T14:13:30.833436",
+  "metrics": {
+    "accuracy": 0.43197879858657245,
+    "precision": 0.24722898080562317,
+    "recall": 0.33087044534412957,
+    "f1": 0.215825449676726,
+    "final_val_loss": 1.0326101779937744
+  }
+}

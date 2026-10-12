@@ -1,0 +1,13 @@
+{
+  "model_type": "lstm",
+  "version": "v3",
+  "file_path": "C:\\Users\\MSI THIN A15\\OneDrive\\Desktop\\trading_project upd\\models\\lstm_v3.keras",
+  "trained_at": "2026-09-30T14:13:14.911281",
+  "metrics": {
+    "accuracy": 0.4204946996466431,
+    "precision": 0.3576365024818633,
+    "recall": 0.33870520317888736,
+    "f1": 0.2786275865431065,
+    "final_val_loss": 1.078842282295227
+  }
+}
